@@ -11,6 +11,7 @@ import TestiPage from './pages/TestiPage';
 import ProjectPage from './pages/ProjectPage';
 
 function App() {
+
   return <div>
     <NavbarComponents/>
 
