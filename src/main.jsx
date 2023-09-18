@@ -5,6 +5,7 @@ import "bootstrap/dist/css/bootstrap.min.css";
 
 //font and css
 import './dist/css/main.css';
+import './dist/css/breakpoints.css';
 
 import {BrowserRouter} from 'react-router-dom';
 

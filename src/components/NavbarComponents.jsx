@@ -6,7 +6,7 @@ import { NavLink } from "react-router-dom";
 const NavbarComponents = () => {
   return (
     <div>
-    <Navbar expand="lg" class="Main-Navbar bg-body-tertiary">
+    <Navbar expand="lg" className="Main-Navbar">
       <Container>
 
         <Navbar.Brand href="/">
@@ -28,7 +28,7 @@ const NavbarComponents = () => {
             })}
           </Nav>
 
-        <Form inline>
+        <Form>
         <Row>
           <Col xs="auto">
             <Button type="submit">Let's Talk</Button>
